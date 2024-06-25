@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I am Messias</h1>
 <h3 align="center">A computer engineer and frontend developer from Manaus, Brasil ❤️.</h3>
 
-**FMessiasCA/abouteMe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fmessiasca" alt="fmessiasca" /></a> </p>
 
 - 🔭 I’m currently working on [pomodoro2.0](https://pomodoro2-0.vercel.app/)
