@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I am Messias</h1>
 <h3 align="center">A computer engineer and frontend developer from Manaus, Brasil ❤️.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fmessiasca" alt="fmessiasca" /></a> </p>
-
 - 🔭 I’m currently working on [pomodoro2.0](https://pomodoro2-0.vercel.app/)
 
 - 🌱 I’m currently learning **React.js and Node.js**
@@ -25,3 +23,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fmessiasca&show_icons=true&locale=en&layout=compact" alt="fmessiasca" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fmessiasca&" alt="fmessiasca" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fmessiasca" alt="fmessiasca" /></a> </p>
